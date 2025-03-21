@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crop Recommendation System</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html> 
+
+
+
+backend/
+├── controllers/           # API logic implementation
+│   ├── authController.js  # Authentication functions
+│   ├── cropController.js  # Crop recommendation logic
+│   └── fertilizerController.js # Fertilizer management
+├── middleware/            # Request processing middleware
+│   └── auth.js            # JWT authentication middleware
+├── models/                # Database schemas
+│   ├── User.js            # User data model
+│   └── fertilizer.js      # Fertilizer data model
+├── routes/                # API route definitions
+│   └── fertilizerRoutes.js # Fertilizer API routes
+├── .env                   # Environment variables
+├── package.json           # Dependencies and scripts
+└── server.js              # Main application entry point
