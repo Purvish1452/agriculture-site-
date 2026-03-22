@@ -141,7 +141,23 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-> Add screenshots of your UI here (Home Page, Dashboard, etc.)
+### 🏠 Landing Page
+![Landing Page](https://github.com/user-attachments/assets/d245d5e0-03d4-469a-8090-aa78bb95c269)
+
+### 🌱 Crop Parameter Page
+![Crop Parameter Page](https://github.com/user-attachments/assets/2ef0c170-4dac-436a-acbc-d1f120d86ced)
+
+### 🌾 Crop Recommendation 
+![Crop Recommendation Page](https://github.com/user-attachments/assets/d1517d1b-b0ff-4460-b0e1-4f6a82cd1fe8)
+
+### 📊 Parameter Summary
+![Parameter Summary](https://github.com/user-attachments/assets/ba77fcf7-e8ac-412b-b8bf-daebdf61da41)
+
+### 🧪 Fertilization Suggestion
+![Fertilization Suggestion](https://github.com/user-attachments/assets/7349e1b3-fecd-4e1d-99d3-5f0ad970007b)
+
+
+
 
 ---
 
